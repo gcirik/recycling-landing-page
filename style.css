@@ -10,13 +10,7 @@
 header{
     display: grid;
     justify-content: center;
-    position: fixed;
-    width: 100%;
     background-color: white;
-}
-
-.logo{
-   width: 100px;
 }
 
 ul li{
@@ -32,10 +26,9 @@ p{
 .container{
     display: grid;
     height: 100vh;
-    grid-template-columns:repeat(auto-fit, minmax(200px, 100px));
+    grid-template-columns:repeat(auto-fit, minmax(200px, 150px));
     place-items: center center;
     justify-content: center;
-    
 }
 
 .recycle-models{
@@ -43,7 +36,6 @@ p{
     max-width: 100%;
     filter: grayscale(50%);
     transform: scale(1);
-    
 }
 
 .recycle-models:hover{

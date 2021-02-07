@@ -1,10 +1,8 @@
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-
 }
 
 header{
@@ -23,17 +21,26 @@ p{
     text-align: center;
 }
 
+.logo{
+    width: 100px;
+ }
+
+ 
 .container{
     display: grid;
     height: 100vh;
     grid-template-columns:repeat(auto-fit, minmax(200px, 150px));
     place-items: center center;
     justify-content: center;
+    background-image: url(/recycling-landing-page/images/container-bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
 }
 
 .recycle-models{
     max-height: 250px;
-    max-width: 100%;
+    max-width: 90%;
     filter: grayscale(50%);
     transform: scale(1);
 }
@@ -70,5 +77,3 @@ p{
     font-size: 18px;
     color: white;
 }
-
-

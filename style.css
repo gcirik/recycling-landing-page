@@ -16,15 +16,21 @@ ul li{
     padding-left: 15px;
 }
 
-p{
-    padding-top: 10px;
-    text-align: center;
-}
-
 .logo{
     width: 100px;
  }
 
+p{
+     color: white;
+     font-size: 1.1rem;
+     padding: 10px;
+}
+
+h1{
+    color: white;
+    font-size: 2rem;
+    padding-bottom: 10px;
+}
  
 .container{
     display: grid;
@@ -45,6 +51,11 @@ p{
     transform: scale(1);
 }
 
+.section-models{
+    max-height: 300px;
+    max-width: 90%;
+}
+
 .recycle-models:hover{
     filter: grayscale(0%);
     transform: scale(1.1);
@@ -53,21 +64,42 @@ p{
 #section-glass{
     background-color:#444CC2;
     height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
+    place-items: center center;
+    justify-content: center;
+    text-align: center;
 }
 
 #section-plastic{
     background-color:#FA942F;
     height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
+    place-items: center center;
+    justify-content: center;
+    text-align: center;
 }
 
 #section-organic{
     background-color:#C4204A;
     height: 100vh;
+    display: grid;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
+    place-items: center center;
+    justify-content: center;
+    text-align: center;
 }
 
 #section-paper{
     background-color:#0E6A41;
     height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 500px));
+    place-items: center center;
+    justify-content: center;
+    text-align: center;
 }
 
 .go-top{

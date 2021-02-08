@@ -4,39 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
-    <title>Document</title>
+    <title>Lorem Ipsum</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<header>
-    <div id="go-home">
+<!-- Header start -->
+<header> 
+    <div id="home">
         <img class="logo" src="images/logo.png"> </a>
     </div>
-    <div class="nav-menu">
-        <ul>
-            <li>Home</li>
-            <li>About Us</li>
-            <li>Contact</li>
-        </ul>
-    </div>
-</header>
+</header> <!-- Header End -->
+
 <body>
-    <div class="container" id="main-container">
+    <!-- Container Start -->
+    <div class="container" id="main-container"> 
         <div>
-            <a href="#section-glass"><img class="recycle-models" src="images/item-glass.png"></a>
+            <a href="#section-glass" class="tool-tip" data-tooltip="See How to Recycle"><img class="recycle-models" src="images/item-glass.png"></a>
         </div>
         <div>
-            <a href="#section-plastic"> <img class="recycle-models" src="images/item-plastic.png"> </a>
+            <a href="#section-plastic" class="tool-tip" data-tooltip="See How to Recycle"><img class="recycle-models" src="images/item-plastic.png"></a>
         </div>
         <div>
-            <a href="#section-organic"> <img class="recycle-models" src="images/item-organic.png"> </a>
+            <a href="#section-organic" class="tool-tip" data-tooltip="See How to Recycle"><img class="recycle-models" src="images/item-organic.png"></a>
         </div>
         <div>
-            <a href="#section-paper"> <img class="recycle-models" src="images/item-paper.png"> </a>
+            <a href="#section-paper" class="tool-tip" data-tooltip="See How to Recycle"><img class="recycle-models" src="images/item-paper.png"> </a>
         </div>
-    </div>
-    <div id="section-glass">
+    </div><!-- Container End -->
+
+    <!-- Sections based on the recycling model selection -->
+    <div id="section-glass"> 
        <div>
-           <img class="section-models" src="/recycling-landing-page/images/section-glass-bg.png">
+           <img class="section-models" src="images/section-glass-bg.png">
        </div>
        <div>
            <h1>Lorem Ipsum</h1>
@@ -55,12 +53,12 @@
              specimen book.</p>
         </div>
         <div>
-            <img class="section-models" src="/recycling-landing-page/images/section-plactic-bg.png">
+            <img class="section-models" src="images/section-plactic-bg.png">
         </div>
     </div>
     <div id="section-organic">
         <div>
-            <img class="section-models" src="/recycling-landing-page/images/section-organic-bg.png">
+            <img class="section-models" src="images/section-organic-bg.png">
         </div>
         <div>
             <h1>Lorem Ipsum</h1>
@@ -79,10 +77,13 @@
              specimen book.</p>
         </div>
         <div>
-            <img class="section-models" src="/recycling-landing-page/images/section-paperbg.png">
+            <img class="section-models" src="images/section-paperbg.png">
         </div>
     </div>
-    <a class="go-top" href="#go-home"><i class="fas fa-angle-double-up fa-3x"></i></a>
+    <!-- End Sections -->
+
+    <!-- Scroll to top link -->
+    <a class="go-top" href="#home"><i class="fas fa-angle-double-up fa-3x"></i></a>
 </div>
 </body>
 </html>

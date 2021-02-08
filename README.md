@@ -2,6 +2,9 @@
 
 A very simple SPA to present how to recycle with pure HTML and CSS.
 
+* **[Live Preview](https://gu1tekin.com/recyle-landing-page/)**
+<img src="images/qrcode_gu1tekin.com.png" width="250px" height="250px">
+
 ### Prerequisites
 
 ```

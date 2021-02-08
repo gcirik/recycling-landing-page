@@ -1,6 +1,6 @@
 # Recycle Landing Page
 
-A very simple SPA to present how to recycle with pure HTML and CSS.
+A very simple SPA to present how to bin less, recycle more!
 
 * **[Live Preview](https://gu1tekin.com/recyle-landing-page/)**
 <img src="images/qrcode_gu1tekin.com.png" width="250px" height="250px">
@@ -24,6 +24,7 @@ A Web Browser
 
 ## Some screenshots
 
+Click on glass, plastic, organic or paper avatar and see how to recycle them.
 <img src="images/readme1.png" width="800px" height="500px">
 <img src="images/readme2.png" width="800px" height="500px">
 <img src="images/readme3.png" width="800px" height="500px">

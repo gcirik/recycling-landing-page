@@ -2,8 +2,10 @@
 
 A very simple SPA to present how to bin less, recycle more!
 
-* **[Live Preview](https://gu1tekin.com/recyle-landing-page/){:target="_blank" rel="noopener"}**
+* **[Live Preview](https://gu1tekin.com/recyle-landing-page/)**
 <img src="images/qrcode_gu1tekin.com.png" width="150px" height="150px">
+<a href="https://gu1tekin.com/recyle-landing-page/" target="_blank">Live Preview</a>
+
 
 ### Prerequisites
 

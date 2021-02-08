@@ -21,7 +21,7 @@ A Web Browser
 
 ## Some screenshots
 
-Click on glass, plastic, organic or paper and see how to recycle them.
+Click on glass, plastic, organic or paper avatar and see how to recycle them.
 <img src="images/readme1.png" width="800px" height="500px">
 <img src="images/readme2.png" width="800px" height="500px">
 <img src="images/readme3.png" width="800px" height="500px">

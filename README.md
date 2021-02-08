@@ -21,8 +21,8 @@ A Web Browser
 
 ## Some screenshots
 
-<img src="images/readme1.png" width="300px" height="250px">
-<img src="images/readme2.png" width="300px" height="250px">
-<img src="images/readme3.png" width="300px" height="250px">
-<img src="images/readme4.png" width="300px" height="250px">
-<img src="images/readme5.png" width="300px" height="250px">
+<img src="images/readme1.png" width="800px" height="500px">
+<img src="images/readme2.png" width="800px" height="500px">
+<img src="images/readme3.png" width="800px" height="500px">
+<img src="images/readme4.png" width="800px" height="500px">
+<img src="images/readme5.png" width="800px" height="500px">

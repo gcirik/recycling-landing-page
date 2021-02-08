@@ -1,6 +1,6 @@
 # Recycle Landing Page
 
-A very simple SPA to present how to recycle with pure HTML and CSS.
+A very simple SPA to present how to bin less, recycle more!
 
 ### Prerequisites
 
@@ -21,6 +21,7 @@ A Web Browser
 
 ## Some screenshots
 
+Click on glass, plastic, organic or paper and see how to recycle them.
 <img src="images/readme1.png" width="800px" height="500px">
 <img src="images/readme2.png" width="800px" height="500px">
 <img src="images/readme3.png" width="800px" height="500px">
